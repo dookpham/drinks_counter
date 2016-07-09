@@ -1,0 +1,19 @@
+{
+  "name": "drinks_counter",
+  "version": "1.0.0",
+  "description": "Practice making a full stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchsquared/drinks_counter.git"
+  },
+  "author": "duke_and_hannah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hchsquared/drinks_counter/issues"
+  },
+  "homepage": "https://github.com/hchsquared/drinks_counter#readme"
+}
